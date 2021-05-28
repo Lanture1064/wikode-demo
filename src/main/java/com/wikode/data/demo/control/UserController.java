@@ -1,6 +1,6 @@
 package com.wikode.data.demo.control;
 
-import com.wikode.data.demo.service.UserRepository;
+import com.wikode.data.demo.mapper.UserRepository;
 import com.wikode.data.demo.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
